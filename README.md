@@ -1,2 +1,2 @@
 # burn-up
-This is a simple burn up chart for team
+To open velocity chart. Simply open team-velocity.html in chrome.
