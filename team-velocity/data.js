@@ -47,11 +47,11 @@ $(function () {
             data: [0, 0, 4, 1, 0],
             stack: 'actual'
         }, {
-            name: 'HomeNow',
+            name: 'Home Now',
             data: [11, 22, 9, 14, 0],
             stack: 'actual'
         }, {
-            name: 'Added',
+            name: 'Newly Added',
             data: [0, 0, 0, 24, 0],
             stack: 'planed'
         }, {

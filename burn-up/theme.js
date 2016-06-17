@@ -18,7 +18,7 @@ Highcharts.wrap(Highcharts.Chart.prototype, 'getContainer', function (proceed) {
 
 
 Highcharts.theme = {
-   colors: ["#00a8ea", "#8085e9", "#8d4654", "#F8D509", "#ff0066", "#aaeeee", "#eeaaee",
+   colors: ["#A2C523", "#00a8ea", "#8085e9", "#F8D509", "#EEEEEE", "#FE8D9E", "#eeaaee",
       "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
    chart: {
       backgroundColor: null,
