@@ -4,10 +4,6 @@ $(function () {
             text: 'Digital Team Burn Up Chart',
             x: -20 //center
         },
-        subtitle: {
-            text: 'Source: WorldClimate.com',
-            x: -20
-        },
         xAxis: {
             categories: ['Mid APR', 'Early MAY', 'Mid MAY', 'Early JUN', 'Mid JUN']
         },
