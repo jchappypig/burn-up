@@ -18,7 +18,7 @@ $(function () {
             }]
         },
         tooltip: {
-            valueSuffix: '°C'
+            valueSuffix: 'points'
         },
         legend: {
             layout: 'vertical',

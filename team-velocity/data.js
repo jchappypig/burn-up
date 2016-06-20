@@ -56,7 +56,7 @@ $(function () {
             stack: 'planed'
         }, {
             name: 'Expected',
-            data: [0, 0, 0, 60, 0],
+            data: [0, 0, 0, 60, 35],
             stack: 'planed'
         }]
     });
