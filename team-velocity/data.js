@@ -36,11 +36,11 @@ $(function () {
 
         series: [{
             name: 'Milli',
-            data: [20, 21, 24, 36, 0],
+            data: [20, 21, 24, 36, 40],
             stack: 'actual'
         }, {
             name: 'LM Marketing',
-            data: [5, 2, 4, 4, 0],
+            data: [5, 2, 4, 4, 10],
             stack: 'actual'
         }, {
             name: 'LM Lead',
@@ -48,15 +48,15 @@ $(function () {
             stack: 'actual'
         }, {
             name: 'Home Now',
-            data: [11, 22, 9, 14, 0],
+            data: [11, 22, 9, 14, 18],
             stack: 'actual'
         }, {
             name: 'Newly Added',
-            data: [0, 0, 0, 24, 0],
+            data: [0, 0, 0, 24, 30],
             stack: 'planed'
         }, {
             name: 'Expected',
-            data: [0, 0, 0, 60, 35],
+            data: [0, 0, 0, 60, 38],
             stack: 'planed'
         }]
     });

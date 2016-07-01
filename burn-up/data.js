@@ -28,22 +28,22 @@ $(function () {
         },
         series: [{
             name: 'Milli',
-            data: [20, 41, 65, 101]
+            data: [20, 41, 65, 101, 141]
         }, {
             name: 'LM Marketing',
-            data: [5, 7, 11, 15]
+            data: [5, 7, 11, 15, 25]
         }, {
             name: 'LM Lead',
-            data: [0, 0, 4, 5]
+            data: [0, 0, 4, 5, 5]
         }, {
             name: 'Home Now',
-            data: [11, 33, 42, 56]
+            data: [11, 33, 42, 56, 74]
         }, {
             name: 'Base Line',
-            data: [40, 80, 120, 160]
+            data: [40, 80, 120, 160, 200]
         }, {
             name: 'Total',
-            data: [36, 81, 122, 177]
+            data: [36, 81, 122, 177, 245]
         }]
     });
 });
